@@ -1,4 +1,4 @@
-const ALCHEMY_PRC_URL = "https://endpoints.omniatech.io/v1/op/mainnet/public"
+const ALCHEMY_PRC_URL = "https://opt-mainnet.g.alchemy.com/v2/HruY-jOA3rh4pI9GP7TpL6HjA5Xsv78K"
 const NET = 'optimism' // polygon, optimism, mumbai, goerli
 // const API_URL = 'http://192.168.104.27:3001/api'
 // const API_URL = 'https://nftbb-minter-backend.herokuapp.com/api'
